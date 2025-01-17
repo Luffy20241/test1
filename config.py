@@ -54,8 +54,8 @@ MEGA_EMAIL = ""
 MEGA_PASSWORD = ""
 
 # Update
-UPSTREAM_REPO = "https://github.com/AeonOrg/Aeon-MLTB"
-UPSTREAM_BRANCH = "main"
+UPSTREAM_REPO = "https://github.com/Luffy20241/test1"
+UPSTREAM_BRANCH = "beta"
 
 # Leech
 LEECH_SPLIT_SIZE = 0
